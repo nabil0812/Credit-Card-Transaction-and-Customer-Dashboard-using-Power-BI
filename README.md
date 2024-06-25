@@ -38,12 +38,6 @@ Publish the dashboard to the Power BI Service for sharing with stakeholders.
 Sharing the Dashboard:
 
 Share the published dashboard link with stakeholders.
-Set up access permissions for team members and stakeholders as required.
-Usage
-Once the dashboard is set up and published, users can:
 
-Explore various visualizations and gain insights into transaction patterns and customer behaviors.
-Use interactive filters to focus on specific time periods, customer segments, or transaction types.
-Drill down into detailed data views for more granular analysis.
-Conclusion
+## Conclusion
 The Credit Card Transaction and Customer Dashboard in Power BI provides a powerful tool for visualizing and analyzing financial data. By leveraging the interactive features of Power BI, stakeholders can gain valuable insights and make data-driven decisions to enhance business performance.
