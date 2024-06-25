@@ -1,4 +1,9 @@
 # Credit Card Financial Dashboard
+
+![Screenshot 2024-06-25 134843](https://github.com/nabil0812/Credit-Card-Transaction-and-Customer-Dashboard-using-Power-BI/assets/105557940/4226445f-ee5a-4201-9994-e7f5ffc2b3f0)
+![Screenshot 2024-06-25 134908](https://github.com/nabil0812/Credit-Card-Transaction-and-Customer-Dashboard-using-Power-BI/assets/105557940/6eeaa42d-c60c-4aa0-a5c0-0d5e26163661)
+
+
 ## 1. Project Objective
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
@@ -13,10 +18,12 @@ Data Processing:
 
 Extracted and cleaned data from SQL databases to ensure consistency and accuracy.
 Transformed data using Power Query for efficient analysis.
+
 DAX (Data Analysis Expressions):
 
 Created calculated columns and measures to perform complex calculations.
 Utilized DAX functions to aggregate and summarize data for detailed insights.
+
 ## 4. Dashboard & Insights
 Developed an interactive dashboard using Power BI to visualize transaction and customer data.
 Visualizations:
@@ -31,7 +38,7 @@ Provided stakeholders with valuable insights to support decision-making processe
 ## 5. Export & Share Project
 Exporting the Dashboard:
 
-Save your Power BI file (.pbix) after creating the dashboard.
+Save Power BI file (.pbix) after creating the dashboard.
 Publishing to Power BI Service:
 
 Publish the dashboard to the Power BI Service for sharing with stakeholders.
